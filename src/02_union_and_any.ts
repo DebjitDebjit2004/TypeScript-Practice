@@ -14,5 +14,5 @@ for (const order of orders) {
     }
 }
 
-currentOrder = '15';
+currentOrder = 15;
 console.log(currentOrder);
